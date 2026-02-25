@@ -1,0 +1,13 @@
+setup.py
+WebSentinel.egg-info/PKG-INFO
+WebSentinel.egg-info/SOURCES.txt
+WebSentinel.egg-info/dependency_links.txt
+WebSentinel.egg-info/entry_points.txt
+WebSentinel.egg-info/top_level.txt
+websentinel/__init__.py
+websentinel/crawler.py
+websentinel/main.py
+websentinel/payloads.py
+websentinel/reporter.py
+websentinel/scanner.py
+websentinel/utils.py

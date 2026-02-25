@@ -1,0 +1,2 @@
+[console_scripts]
+websentinel = websentinel.main:main
